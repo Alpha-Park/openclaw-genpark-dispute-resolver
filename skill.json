@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-dispute-resolver",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Dispute Resolver - Schelling point consensus and Dempster-Shafer escrow arbitrator with stake slashing and proportional settlement.",
+  "tools": [
+    "calculate_schelling_consensus",
+    "combine_dempster_shafer_evidence",
+    "compute_escrow_settlement"
+  ]
+}
